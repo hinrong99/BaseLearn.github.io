@@ -14,11 +14,6 @@ Learn to code
 	<br>
 	<a href="hi.html">Second Page></a>
 	<a href = "https://www.wikipedia.org/">Go To Wikipedia!</a>
-	<figure>
-		<img src="sign.jpg" width = "200" height="200" alt="Signature">
-		<figcaption>Relative image size</figcaption>
-	</figure>
-
 
 	<br>
 	<h1>MV</h1>
